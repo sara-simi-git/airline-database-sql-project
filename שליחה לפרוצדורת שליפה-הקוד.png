@@ -1,0 +1,5 @@
+
+exec sum_pasengers 234,3
+
+select* from pasengers
+where sochen_ID is not null
